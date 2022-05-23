@@ -17,19 +17,6 @@ A Random Forest is a meta estimator that fits a number of decision tree classifi
 3.Each decision tree will generate an output.<br>
 4.Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Program:
 Program to implement random classification.<br>
 Developed by   : Harshini M<br>
